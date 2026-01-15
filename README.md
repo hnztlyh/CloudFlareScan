@@ -1,5 +1,5 @@
 # CloudFlare Scan (ipv4 ipv6)  
-全新CloudFlare 优选IP扫描器 
+CloudFlare 扫描器 
 
 提示：本工具仅供学习和合法网络优化使用，请遵守当地法律法规。
 
